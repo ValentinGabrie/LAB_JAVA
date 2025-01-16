@@ -1,0 +1,34 @@
+[ [ "lab7.Chitara", {
+  "producator" : "Yamaha",
+  "pret" : 1000,
+  "tip_chitara" : "CLASICA",
+  "nr_corzi" : 6
+} ], [ "lab7.Chitara", {
+  "producator" : "Yamaha",
+  "pret" : 1500,
+  "tip_chitara" : "ACUSTICA",
+  "nr_corzi" : 6
+} ], [ "lab7.SetTobe", {
+  "producator" : "Yamaha",
+  "pret" : 2000,
+  "tip_tobe" : "ACUSTICE",
+  "nr_tobe" : 5,
+  "nr_cinele" : 3
+} ], [ "lab7.SetTobe", {
+  "producator" : "Yamaha",
+  "pret" : 1000,
+  "tip_tobe" : "ELECTRONICE",
+  "nr_tobe" : 5,
+  "nr_cinele" : 3
+} ], [ "lab7.Chitara", {
+  "producator" : "Fender",
+  "pret" : 2000,
+  "tip_chitara" : "ELECTRICA",
+  "nr_corzi" : 6
+} ], [ "lab7.SetTobe", {
+  "producator" : "Yamaha",
+  "pret" : 3000,
+  "tip_tobe" : "ELECTRONICE",
+  "nr_tobe" : 5,
+  "nr_cinele" : 3
+} ] ]
