@@ -1,0 +1,1 @@
+create table if not exists carti( ISBN varchar(20) primary key,titlu varchar(50),autor varchar(50))
