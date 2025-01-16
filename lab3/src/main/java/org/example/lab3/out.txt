@@ -1,0 +1,7 @@
+zahar        1.5          50.0        
+faina        2.5          60.0        
+unt          8.5          10.0        
+malai        0.5          40.0        
+
+Pret minim: 0.5 -> Produs:  malai    40.0    
+Pret maxim: 8.5 -> Produs:  unt      10.0    
